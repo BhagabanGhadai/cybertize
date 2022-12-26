@@ -1,0 +1,395 @@
+{
+    "Products": [
+      {
+        "_id": "63a41de13a9408bce85458c7",
+        "name": "TQH Men Dri Fit Polyester Half",
+        "slug": "TQH-Men-Dri-Fit-Polyester-Half-Sleeve-Round-Neck-White-t-shirts-Men-Solid-Round-Neck-White-T-Shirt",
+        "description": "Product Details\n\nType\nRound Neck\nSleeve\nShort Sleeve\nFit\nRegular\nFabric\nPure Cotton\nPack of\n1\nStyle Code\n13338208\nNeck Type\nRound Neck\nIdeal For\nMen",
+        "sortprice": 299,
+        "attributes": [
+          {
+            "title": "S",
+            "color": [
+              {
+                "colorCode": "#f2d43a",
+                "images": [
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671700053/ecomnode/newproducts/uarorsmvlahl6gdujffe.webp"
+                  }
+                ],
+                "fabric": [
+                  {
+                    "fabricName": "Cotton",
+                    "price": "299",
+                    "mrp": "399",
+                    "stock": "10",
+                    "discount": "100"
+                  },
+                  {
+                    "fabricName": "Nylon",
+                    "price": "299",
+                    "mrp": "399",
+                    "stock": "10",
+                    "discount": "100"
+                  }
+                ]
+              },
+              {
+                "colorCode": "#1b1818",
+                "images": [
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671700199/ecomnode/newproducts/khuv1evmee2rpgug38m8.webp"
+                  }
+                ],
+                "fabric": [
+                  {
+                    "fabricName": "Cotton",
+                    "price": "299",
+                    "mrp": "399",
+                    "stock": "10",
+                    "discount": "100"
+                  },
+                  {
+                    "fabricName": "Nylon",
+                    "price": "299",
+                    "mrp": "399",
+                    "stock": "12",
+                    "discount": "100"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "M",
+            "color": [
+              {
+                "colorCode": "#120303",
+                "images": [
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671700384/ecomnode/newproducts/ojzhlx8bu41tkgcpsghe.webp"
+                  },
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671700386/ecomnode/newproducts/a755aqyv9k0r4vpblweg.webp"
+                  }
+                ],
+                "fabric": [
+                  {
+                    "fabricName": "Cotton",
+                    "price": "199",
+                    "mrp": "299",
+                    "stock": "10",
+                    "discount": "100"
+                  },
+                  {
+                    "fabricName": "Nylon",
+                    "price": "199",
+                    "mrp": "299",
+                    "stock": "10",
+                    "discount": "100"
+                  }
+                ]
+              },
+              {
+                "colorCode": "#940a0a",
+                "images": [
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671700582/ecomnode/newproducts/appjrqrd3ktzwhvbqvof.webp"
+                  }
+                ],
+                "fabric": [
+                  {
+                    "fabricName": "Cotton",
+                    "price": "299",
+                    "mrp": "399",
+                    "stock": "10",
+                    "discount": "100"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "printer": "63298bf01fa668a7ff8995b3",
+        "attrStatus": true
+      },
+      {
+        "_id": "63a43eca3a9408bce8545aa1",
+        "name": "Round T-shirt",
+        "slug": "Round-T-shirt",
+        "description": "Care Instructions: Machine Wash Cold Line Dry\nFit Type: Regular Fit\nClean Comfort- Live in and out in style in comfort with this odorless and stain resistant T shirt made from premium Cotton will keep you clean and fresh all day long.\nStretch – 5% Spandex provides extra flexibility for your work to travel routines.",
+        "sortprice": 399,
+        "attributes": [
+          {
+            "title": "S",
+            "color": [
+              {
+                "colorCode": "#ad5c5c",
+                "images": [
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671708440/ecomnode/newproducts/dbveurftzzj55h5uej0d.jpg"
+                  }
+                ],
+                "fabric": [
+                  {
+                    "fabricName": "Cotton",
+                    "price": "399",
+                    "mrp": "450",
+                    "stock": "10",
+                    "discount": "20"
+                  },
+                  {
+                    "fabricName": "Silk",
+                    "price": "420",
+                    "mrp": "480",
+                    "stock": "5",
+                    "discount": "20"
+                  }
+                ]
+              },
+              {
+                "colorCode": "#7bf4e6",
+                "images": [
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671708516/ecomnode/newproducts/r1ajnilc83iwj8peltbg.jpg"
+                  }
+                ],
+                "fabric": [
+                  {
+                    "fabricName": "Silk",
+                    "price": "399",
+                    "mrp": "449",
+                    "stock": "10",
+                    "discount": "20"
+                  },
+                  {
+                    "fabricName": "Naylon",
+                    "price": "400",
+                    "mrp": "500",
+                    "stock": "10",
+                    "discount": "10"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "L",
+            "color": [
+              {
+                "colorCode": "#d71d1d",
+                "images": [
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671708615/ecomnode/newproducts/ecpxm2l8iuanmxrkhirx.jpg"
+                  }
+                ],
+                "fabric": [
+                  {
+                    "fabricName": "Silk",
+                    "price": "500",
+                    "mrp": "600",
+                    "stock": "10",
+                    "discount": "10"
+                  },
+                  {
+                    "fabricName": "Nayloon",
+                    "price": "400",
+                    "mrp": "500",
+                    "stock": "10",
+                    "discount": "20"
+                  }
+                ]
+              },
+              {
+                "colorCode": "#e7c6c6",
+                "images": [
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671708691/ecomnode/newproducts/z68al6pru8jiq4lwohif.jpg"
+                  }
+                ],
+                "fabric": [
+                  {
+                    "fabricName": "silk",
+                    "price": "400",
+                    "mrp": "440",
+                    "stock": "10",
+                    "discount": "10"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "XL",
+            "color": [
+              {
+                "colorCode": "#f2e3e3",
+                "images": [
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671708769/ecomnode/newproducts/kfsycjuadwtzkt37kfow.jpg"
+                  }
+                ],
+                "fabric": [
+                  {
+                    "fabricName": "nayloon",
+                    "price": "500",
+                    "mrp": "600",
+                    "stock": "20",
+                    "discount": "20"
+                  }
+                ]
+              },
+              {
+                "colorCode": "#0e0b0b",
+                "images": [
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671708814/ecomnode/newproducts/wrb1y7exgcogoytnhugv.jpg"
+                  }
+                ],
+                "fabric": [
+                  {
+                    "fabricName": "Nayloon",
+                    "price": "300",
+                    "mrp": "400",
+                    "stock": "10",
+                    "discount": "10"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "printer": "63298bf01fa668a7ff8995b3",
+        "attrStatus": true
+      },
+      {
+        "_id": "63a41ad93a9408bce8545841",
+        "name": "Mens T Shirt",
+        "slug": "Mens-T-Shirt",
+        "description": "Type\nRound Neck\nSleeve\nHalf Sleeve\nFit\nLoose\nFabric\nPure Cotton\nSales Package\n1\nPack of\n1\nStyle Code\nOS_SWBF3058_AOP\nNeck Type\nRound Neck",
+        "sortprice": 449,
+        "attributes": [
+          {
+            "title": "S",
+            "color": [
+              {
+                "colorCode": "#e5a9a9",
+                "images": [
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671699197/ecomnode/newproducts/dvfonnpnr1udepmdyu9m.webp"
+                  },
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671699199/ecomnode/newproducts/gy1auxuz9zbpigsajd6s.webp"
+                  }
+                ],
+                "fabric": [
+                  {
+                    "fabricName": "Cotton",
+                    "price": "449",
+                    "mrp": "500",
+                    "stock": "50",
+                    "discount": "49"
+                  },
+                  {
+                    "fabricName": "Rayon",
+                    "price": "339",
+                    "mrp": "400",
+                    "stock": "50",
+                    "discount": "59"
+                  }
+                ]
+              },
+              {
+                "colorCode": "#44cc1e",
+                "images": [
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671699251/ecomnode/newproducts/vcgctuyncrgl75bvulfz.webp"
+                  },
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671699253/ecomnode/newproducts/y40w4gxmfmnrquadjuq7.webp"
+                  }
+                ],
+                "fabric": [
+                  {
+                    "fabricName": "Cotton",
+                    "price": "249",
+                    "mrp": "300",
+                    "stock": "150",
+                    "discount": "50"
+                  },
+                  {
+                    "fabricName": "Polyster",
+                    "price": "339",
+                    "mrp": "400",
+                    "stock": "50",
+                    "discount": "150"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "M",
+            "color": [
+              {
+                "colorCode": "#240a0a",
+                "images": [
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671699316/ecomnode/newproducts/pucomvhcojnwqx1enul0.webp"
+                  },
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671699317/ecomnode/newproducts/lz4xkhdx2ghe9gfhscvp.webp"
+                  }
+                ],
+                "fabric": [
+                  {
+                    "fabricName": "Ryon",
+                    "price": "559",
+                    "mrp": "600",
+                    "stock": "50",
+                    "discount": "50"
+                  },
+                  {
+                    "fabricName": "Cotton",
+                    "price": "339",
+                    "mrp": "400",
+                    "stock": "50",
+                    "discount": "50"
+                  }
+                ]
+              },
+              {
+                "colorCode": "#363ac4",
+                "images": [
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671699366/ecomnode/newproducts/gj5w30p20qwoe1nh4qta.webp"
+                  },
+                  {
+                    "img": "https://res.cloudinary.com/nik-cloud-cybertize/image/upload/v1671699368/ecomnode/newproducts/prhtn20bklxyxirgi5f0.webp"
+                  }
+                ],
+                "fabric": [
+                  {
+                    "fabricName": "Cotton",
+                    "price": "369",
+                    "mrp": "400",
+                    "stock": "52",
+                    "discount": "50"
+                  },
+                  {
+                    "fabricName": "Ryon",
+                    "price": "449",
+                    "mrp": "500",
+                    "stock": "50",
+                    "discount": "50"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "printer": "63298bf01fa668a7ff8995b3",
+        "attrStatus": true
+      }
+    ]
+  }
