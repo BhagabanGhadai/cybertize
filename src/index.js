@@ -10,7 +10,7 @@ app.use(express.json())
 app.use(express.urlencoded({ extended: true }))
 
 app.use('/', route)
-
+mongoose.set(`strictQuery`,true);
 mongoose.connect("mongodb+srv://Bhagaban:L2vSe5ZRZjoVfhOA@cluster0.ojbuh.mongodb.net/cybertize", { useNewUrlParser: true })
     .then(() => console.log('MongoDB is connected!!'))
     .catch(err => console.log(err))
